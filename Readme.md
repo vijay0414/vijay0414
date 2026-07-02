@@ -2,38 +2,40 @@
 
 # Hi, I'm Vijaykumar 👋
 
-<p><strong>Full Stack Developer</strong> • Java & MERN Stack • n8n & Blockchain Enthusiast</p>
+<p><strong>Full Stack Developer & Automation Architect</strong> • Java, MERN, n8n & Blockchain</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+practical+solutions;Turning+ideas+into+products;Always+learning+and+shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+modern+web+apps;Designing+automation+workflows;Delivering+scalable+systems" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-black?style=for-the-badge)](https://portfolio-lac-two-t9sygdatyd.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vijaykumarasamy/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/vijay0414)
 
-Location :  Kangayam, Tiruppur, Tamil Nadu, India
+📍 Kangayam, Tiruppur, Tamil Nadu, India
 
 </div>
 
 ---
 
-##  About Me
+## About Me
 
-I’m a developer who enjoys building practical solutions that make everyday life easier. My work spans full-stack web applications, and emerging technologies such as blockchain.
+I build modern web applications, scalable database systems, and automation workflows that combine polished UI with strong architecture.
 
-I like creating clean interfaces, and systems that feel simple for users while staying reliable behind the scenes.
+My strengths include MERN stack development, n8n automation pipeline engineering, and backend services using Java and Spring Boot.
 
-- Worked on full-stack and web application projects
-- Exploring blockchain, REST APIs, and cloud integrations
-- Interested in smart systems, data-driven apps, and scalable architecture
+- Built production-ready interfaces and full-stack platforms
+- Created automation workflows for real-time review scraping and sentiment analysis
+- Designed scalable marketplaces and event management systems
+- Enjoy solving problems with clean code, automation, and thoughtful design
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -45,7 +47,8 @@ I like creating clean interfaces, and systems that feel simple for users while s
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### Platforms
+### Automation & Platforms
+![n8n](https://img.shields.io/badge/n8n-000000?style=flat-square&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -54,56 +57,73 @@ I like creating clean interfaces, and systems that feel simple for users while s
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
-###  Bus Seat Monitoring & Ticketing System
-> A practical IoT-based solution for real-time transit monitoring and ticketing.
+### Bus Ticket & Tracking
+> A real-time geospatial tracking and seat monitoring system for transit.
 
-- Built with JavaScript, hardware sensors, and a live dashboard
-- Helps users check seat availability and book tickets quickly
-- Makes public transport operations smoother and more efficient
--  [View Repository](https://github.com/vijay0414/Bus_Ticket_and_Tracking)
+- Built with React, Node.js, Express.js, and MongoDB
+- Tracks bus locations and seat availability in real time
+- Designed for practical transit operations and interactive mapping
+- 🔗 [View Repository](https://github.com/vijay0414/Bus_Ticket_and_Tracking)
 
-###  Mini Blockchain Implementation
-> A simplified blockchain built from scratch to understand core distributed ledger concepts.
+### Agri-Trade Platform
+> A scalable online marketplace connecting farmers and retailers.
 
-- Implements hashing, chaining, proof of work, and validation
-- Exposes blockchain operations through REST APIs using Spring Boot
-- Demonstrates object-oriented programming in a clear and hands-on way
+- Built with React, Java, Spring Boot, and MySQL
+- Enables direct trading and digital agriculture workflows
+- Focused on reliability, performance, and user experience
+- 🔗 [View Repository](https://github.com/vijay0414/Digital-Agriculture-Trading-Platform)
 
-###  Campus Event Management Platform
-> A MERN stack platform for discovering and managing campus events.
+### OnDutyTracker
+> A full-stack event and duty management tool for campus activities.
 
-- Built with MongoDB, Express.js, React, and Node.js
-- Supports event creation, registration, and admin management
-- Designed with a simple and user-friendly experience
--  [View Repository](https://github.com/vijay0414/Team-Mini-project)
+- Built with React, Node.js, Express.js, MongoDB, and JWT authentication
+- Manages event scheduling, attendance, and student participation
+- Designed to simplify college event coordination
+- 🔗 [View Repository](https://github.com/vijay0414/Ondutytracker)
 
-###  Digital Agriculture Trading Platform
-> A TypeScript-based marketplace connecting farmers and buyers.
+### Sentiment Analysis Workflow (n8n)
+> An automation pipeline for Google Maps and Amazon review scraping.
 
-- Focused on creating a direct and reliable trading experience
-- Built with type-safe and scalable code
--  [View Repository](https://github.com/vijay0414/Digital-Agriculture-Trading-Platform)
+- Uses n8n workflows, SerpAPI, webhooks, and Express.js
+- Fetches review data automatically and processes sentiment analysis
+- Demonstrates automation, API integration, and webhook-driven architecture
+- 🔗 [View Repository](https://github.com/vijay0414/Sentiment_Analysis_Using_N8N)
 
-###  Sentiment Analysis Using n8n
-> An automation workflow for analyzing Google Maps and Amazon reviews.
+### Mini Blockchain Implementation
+> A blockchain prototype built with Java and Spring Boot.
 
-- Detects the review source URL and routes it accordingly
-- Integrates SerpAPI to fetch live reviews
-- Uses an Express.js backend with webhook endpoints
-- Includes a simple frontend to submit URLs and view results
--  [View Repository](https://github.com/vijay0414/Sentiment_Analysis_Using_N8N)
+- Implements hashing, proof of work, and chain validation
+- Exposes core operations through REST APIs
+- Useful for learning distributed ledger fundamentals
+- 🔗 [View Repository](https://github.com/vijay0414/MiniBlockChain)
 
 ---
 
-##  Connect With Me
+## Connect With Me
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-black?style=for-the-badge)](https://portfolio-lac-two-t9sygdatyd.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vijaykumarasamy/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/vijay0414)
+
+</div>
+
+---
+
+## GitHub Snapshot
+
+These cards update automatically from your public GitHub profile.
+
+<div align="center">
+
+![Vijay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijay0414&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay0414&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vijay0414&theme=tokyonight&hide_border=true)
 
 </div>
 
