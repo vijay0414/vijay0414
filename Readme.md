@@ -117,7 +117,7 @@ My strengths include MERN stack development, n8n automation pipeline engineering
 
 These cards update automatically from your public GitHub profile.
 
-<div align="center">
+<!-- <div align="center">
 
 ![Vijay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijay0414&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -127,7 +127,7 @@ These cards update automatically from your public GitHub profile.
 
 </div>
 
----
+--- -->
 
 <div align="center">
   <i>"Build with purpose. Learn with curiosity. Ship with confidence."</i>
