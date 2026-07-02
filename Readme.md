@@ -113,7 +113,7 @@ My strengths include MERN stack development, n8n automation pipeline engineering
 
 ---
 
-## GitHub Snapshot
+<!-- ## GitHub Snapshot
 
 These cards update automatically from your public GitHub profile.
 
@@ -127,7 +127,7 @@ These cards update automatically from your public GitHub profile.
 
 </div>
 
---- -->
+--- --> -->
 
 <div align="center">
   <i>"Build with purpose. Learn with curiosity. Ship with confidence."</i>
