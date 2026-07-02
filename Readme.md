@@ -127,7 +127,7 @@ These cards update automatically from your public GitHub profile.
 
 </div>
 
---- --> -->
+--- --> 
 
 <div align="center">
   <i>"Build with purpose. Learn with curiosity. Ship with confidence."</i>
