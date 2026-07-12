@@ -101,6 +101,13 @@ My strengths include MERN stack development, n8n automation pipeline engineering
 
 ---
 
+
+## GitHub Snapshot
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vijay0414&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vijay0414&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+---
 ## Connect With Me
 
 <div align="center">
@@ -113,10 +120,6 @@ My strengths include MERN stack development, n8n automation pipeline engineering
 
 ---
 
-## GitHub Snapshot
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vijay0414&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vijay0414&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+
 
 
