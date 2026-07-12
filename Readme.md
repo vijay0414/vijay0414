@@ -101,6 +101,21 @@ My strengths include MERN stack development, n8n automation pipeline engineering
 
 ---
 
+## GitHub Snapshot
+
+These cards update automatically from your public GitHub profile.
+
+<div align="center">
+
+![Vijay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijay0414&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay0414&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vijay0414&theme=tokyonight&hide_border=true)
+
+</div>
+
+--- 
 ## Connect With Me
 
 <div align="center">
@@ -113,22 +128,4 @@ My strengths include MERN stack development, n8n automation pipeline engineering
 
 ---
 
-<!-- ## GitHub Snapshot
 
-These cards update automatically from your public GitHub profile.
-
-<!-- <div align="center">
-
-![Vijay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijay0414&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay0414&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=vijay0414&theme=tokyonight&hide_border=true)
-
-</div>
-
---- --> 
-
-<div align="center">
-  <i>"Build with purpose. Learn with curiosity. Ship with confidence."</i>
-</div>
