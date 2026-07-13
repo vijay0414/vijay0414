@@ -41,7 +41,7 @@
 
 | Project | Description |
 |---|---|
-| 🧠 **CodeIntellAI** | AI-powered code intelligence tool — reviews, explains, debugs, optimizes, translates code & generates interview questions — React, FastAPI, Groq API, Gemini API · [Repo](https://github.com/vijay0414/CodeIntellAI) · [Live](https://code-intell-ai.vercel.app/) |
+|  **CodeIntellAI** | AI-powered code intelligence tool — reviews, explains, debugs, optimizes, translates code & generates interview questions — React, FastAPI, Groq API, Gemini API · [Repo](https://github.com/vijay0414/CodeIntellAI) · [Live](https://code-intell-ai.vercel.app/) |
 |  **Bus Ticket & Tracking** | Real-time geospatial tracking and seat monitoring system for transit — React, Node.js, Express.js, MongoDB · [Repo](https://github.com/vijay0414/Bus_Ticket_and_Tracking) |
 |  **Agri-Trade Platform** | Scalable online marketplace connecting farmers and retailers — React, Java, Spring Boot, MySQL · [Repo](https://github.com/vijay0414/Digital-Agriculture-Trading-Platform) |
 |  **OnDutyTracker** | Full-stack event and duty management tool for campus activities — React, Node.js, Express.js, MongoDB, JWT · [Repo](https://github.com/vijay0414/Ondutytracker) |
