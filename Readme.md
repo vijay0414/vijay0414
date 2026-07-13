@@ -49,16 +49,6 @@
 |  **Mini Blockchain Implementation** | Blockchain prototype with hashing, proof of work, and chain validation — Java, Spring Boot, REST APIs · [Repo](https://github.com/vijay0414/MiniBlockChain) |
 
 ---
-
-## ◆ Achievements
-
--  Production-ready Full Stack Platforms
--  Automation Workflow Architect (n8n)
--  Blockchain Developer
--  Digital Agriculture Platform Builder
-
----
-
 ## ◆ GitHub Statistics
 
 <p align="center">
