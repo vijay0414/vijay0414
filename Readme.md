@@ -41,20 +41,21 @@
 
 | Project | Description |
 |---|---|
+| 🧠 **CodeIntellAI** | AI-powered code intelligence tool — reviews, explains, debugs, optimizes, translates code & generates interview questions — React, FastAPI, Groq API, Gemini API · [Repo](https://github.com/vijay0414/CodeIntellAI) · [Live](https://code-intell-ai.vercel.app/) |
 |  **Bus Ticket & Tracking** | Real-time geospatial tracking and seat monitoring system for transit — React, Node.js, Express.js, MongoDB · [Repo](https://github.com/vijay0414/Bus_Ticket_and_Tracking) |
 |  **Agri-Trade Platform** | Scalable online marketplace connecting farmers and retailers — React, Java, Spring Boot, MySQL · [Repo](https://github.com/vijay0414/Digital-Agriculture-Trading-Platform) |
 |  **OnDutyTracker** | Full-stack event and duty management tool for campus activities — React, Node.js, Express.js, MongoDB, JWT · [Repo](https://github.com/vijay0414/Ondutytracker) |
 |  **Sentiment Analysis Workflow (n8n)** | Automation pipeline for Google Maps & Amazon review scraping and sentiment analysis — n8n, SerpAPI, Express.js · [Repo](https://github.com/vijay0414/Sentiment_Analysis_Using_N8N) |
-| ⛓ **Mini Blockchain Implementation** | Blockchain prototype with hashing, proof of work, and chain validation — Java, Spring Boot, REST APIs · [Repo](https://github.com/vijay0414/MiniBlockChain) |
+|  **Mini Blockchain Implementation** | Blockchain prototype with hashing, proof of work, and chain validation — Java, Spring Boot, REST APIs · [Repo](https://github.com/vijay0414/MiniBlockChain) |
 
 ---
 
 ## ◆ Achievements
 
-- 🚀 Production-ready Full Stack Platforms
-- 🤖 Automation Workflow Architect (n8n)
-- ⛓ Blockchain Developer
-- 🌾 Digital Agriculture Platform Builder
+-  Production-ready Full Stack Platforms
+-  Automation Workflow Architect (n8n)
+-  Blockchain Developer
+-  Digital Agriculture Platform Builder
 
 ---
 
