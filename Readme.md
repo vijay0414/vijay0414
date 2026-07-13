@@ -81,11 +81,11 @@
 
 ## ◆ Current Focus
 
-- ☕ Java Backend & Spring Boot Development
-- 🌐 MERN Stack Applications
-- 🤖 Automation with n8n & AI Workflows
-- ⛓ Blockchain & Distributed Systems
-- ☁ Cloud & Deployment (Vercel)
+-  Java Backend & Spring Boot Development
+-  MERN Stack Applications
+-  Automation with n8n & AI Workflows
+-  Blockchain & Distributed Systems
+-  Cloud & Deployment (Vercel)
 
 ---
 
@@ -99,11 +99,8 @@
   <a href="https://github.com/vijay0414"><img src="https://skillicons.dev/icons?i=github"/></a>
 </p>
 
-> ## 💎 Quote
-> **"Build with purpose. Learn with curiosity. Ship with confidence."**
-
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer)
+![](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:21262D&height=120&section=footer)
 
 </div>
