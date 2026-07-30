@@ -89,7 +89,7 @@
 <p align="center">
   <a href="https://portfolio-lac-two-t9sygdatyd.vercel.app/">Portfolio</a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/vijaykumarasamy/">LinkedIn</a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/vijay0414">GitHub</a>
+  <a href="https://github.com/vijay0414">GitHub</a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:vijaykumarasamy@example.com">Email</a>
 </p>
 
