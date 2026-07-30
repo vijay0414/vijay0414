@@ -90,6 +90,6 @@
   <a href="https://portfolio-lac-two-t9sygdatyd.vercel.app/">Portfolio</a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/vijaykumarasamy/">LinkedIn</a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/vijay0414">GitHub</a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:vijaykumarasamy@example.com">Email</a>
+  <a href="mailto:vijaykumarasamyvkps@gmail.com">Email</a>
 </p>
 
