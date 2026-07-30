@@ -2,7 +2,7 @@
   
 # **VijayKumar**
 
-[(https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FFAA&background=000000&center=true&vCenter=true&width=850&lines=+Full+Stack+Developer;+Automation+Architect;+Java+%26+Spring+Boot;+MERN+Stack+Developer;+n8n+%26+Blockchain+Enthusiast)]
+[MERN Stack Developer - n8n Automation - BlockChain] 
 
 
 [Portfolio](https://portfolio-lac-two-t9sygdatyd.vercel.app/)
