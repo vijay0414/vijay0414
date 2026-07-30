@@ -5,10 +5,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FFAA&background=000000&center=true&vCenter=true&width=850&lines=+Full+Stack+Developer;+Automation+Architect;+Java+%26+Spring+Boot;+MERN+Stack+Developer;+n8n+%26+Blockchain+Enthusiast)](https://git.io/typing-svg)
 
 
-[![Portfolio](Portfolio)](https://portfolio-lac-two-t9sygdatyd.vercel.app/)
-[![LinkedIn](LinkedIn)](https://www.linkedin.com/in/vijaykumarasamy/)
-[![LeetCode](Leetcode)](https://leetcode.com/u/VijayKumarasamy/)
-[![HackerRank](HackerRank)](https://www.hackerrank.com/profile/vijaykumarasamy1)
+[(Portfolio)](https://portfolio-lac-two-t9sygdatyd.vercel.app/)
+[(LinkedIn)](https://www.linkedin.com/in/vijaykumarasamy/)
+[(Leetcode)](https://leetcode.com/u/VijayKumarasamy/)
+[(HackerRank)](https://www.hackerrank.com/profile/vijaykumarasamy1)
 
 </div>
 
