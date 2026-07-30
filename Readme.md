@@ -93,8 +93,3 @@
   <a href="mailto:vijaykumarasamy@example.com">Email</a>
 </p>
 
-<div align="center">
-
-![](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:21262D&height=120&section=footer)
-
-</div>
