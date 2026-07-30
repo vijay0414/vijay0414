@@ -5,10 +5,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FFAA&background=000000&center=true&vCenter=true&width=850&lines=+Full+Stack+Developer;+Automation+Architect;+Java+%26+Spring+Boot;+MERN+Stack+Developer;+n8n+%26+Blockchain+Enthusiast)](https://git.io/typing-svg)
 
 
-[(Portfolio)](https://portfolio-lac-two-t9sygdatyd.vercel.app/)
-[(LinkedIn)](https://www.linkedin.com/in/vijaykumarasamy/)
-[(Leetcode)](https://leetcode.com/u/VijayKumarasamy/)
-[(HackerRank)](https://www.hackerrank.com/profile/vijaykumarasamy1)
+[Portfolio](https://portfolio-lac-two-t9sygdatyd.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/vijaykumarasamy/)
+[Leetcode](https://leetcode.com/u/VijayKumarasamy/)
+[HackerRank](https://www.hackerrank.com/profile/vijaykumarasamy1)
 
 </div>
 
@@ -27,35 +27,35 @@
 ##  Programming Languages
 
 <p>
-    -Java
-    -Python
-    -Javascript
-    -HTML
-    -CSS
+    -Java</br>
+    -Python</br>
+    -Javascript</br>
+    -HTML</br>
+    -CSS</br>
 </p>
 
 ##  Tech Stack
 <p>
-    -React.js
-    -Node.js
-    -Express.js
-    -SpringBoot
+    -React.js</br>
+    -Node.js</br>
+    -Express.js</br>
+    -SpringBoot</br>
 </p>
 
 ##  Database
 <p>
-    -MongoDB
-    -MySQL 
+    -MongoDB</br>
+    -MySQL </br>
 </p>
 
 ##  Tools & Automation
 <p>
-    -Git,GitHub
-    -VScode
-    -Postman
-    -vercel
-    -Render
-    -n8n
+    -Git,GitHub</br>
+    -VScode</br>
+    -Postman</br>
+    -vercel</br>
+    -Render</br>
+    -n8n</br>
 </p>
 
 ---
