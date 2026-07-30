@@ -1,24 +1,22 @@
 <div align="center">
+  
+# **VijayKumar**
 
-# **VIJAYKUMAR**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FFAA&background=000000&center=true&vCenter=true&width=850&lines=+Full+Stack+Developer;+Automation+Architect;+Java+%26+Spring+Boot;+MERN+Stack+Developer;+n8n+%26+Blockchain+Enthusiast)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Automation+Architect;Java+%26+Spring+Boot+Developer;MERN+Stack+Developer;n8n+%26+Blockchain+Enthusiast)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-black?style=for-the-badge)](https://portfolio-lac-two-t9sygdatyd.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vijaykumarasamy/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/VijayKumarasamy/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/vijaykumarasamy1)
-[![GitHub](https://img.shields.io/badge/GitHub-vijay0414-black?style=for-the-badge&logo=github)](https://github.com/vijay0414)
-
-![](https://komarev.com/ghpvc/?username=vijay0414&style=for-the-badge)
+[![Portfolio](Portfolio)](https://portfolio-lac-two-t9sygdatyd.vercel.app/)
+[![LinkedIn](LinkedIn)](https://www.linkedin.com/in/vijaykumarasamy/)
+[![LeetCode](Leetcode)](https://leetcode.com/u/VijayKumarasamy/)
+[![HackerRank](HackerRank)](https://www.hackerrank.com/profile/vijaykumarasamy1)
 
 </div>
 
 ---
 
-## ◆ About Me
+##  About Me
 
-- 📍 Kangayam, Tiruppur, Tamil Nadu, India
+-  Kangayam, Tiruppur, Tamil Nadu, India
 - Full Stack Developer & Automation Architect • Java, MERN, n8n & Blockchain
 - Built production-ready interfaces and full-stack platforms
 - Created automation workflows for real-time review scraping and sentiment analysis
@@ -26,18 +24,43 @@
 - Enjoy solving problems with clean code, automation, and thoughtful design
 
 ---
+##  Programming Languages
 
-## ◆ Programming Languages
+<p>
+    -Java
+    -Python
+    -Javascript
+    -HTML
+    -CSS
+</p>
 
-<p><img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css"/></p>
+##  Tech Stack
+<p>
+    -React.js
+    -Node.js
+    -Express.js
+    -SpringBoot
+</p>
 
-## ◆ Tech Stack
+##  Database
+<p>
+    -MongoDB
+    -MySQL 
+</p>
 
-<p><img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,spring,mysql,github,vscode,postman,vercel"/></p>
+##  Tools & Automation
+<p>
+    -Git,GitHub
+    -VScode
+    -Postman
+    -vercel
+    -Render
+    -n8n
+</p>
 
 ---
 
-## ◆ Featured Projects
+##  Featured Projects
 
 | Project | Description |
 |---|---|
@@ -49,28 +72,9 @@
 |  **Mini Blockchain Implementation** | Blockchain prototype with hashing, proof of work, and chain validation — Java, Spring Boot, REST APIs · [Repo](https://github.com/vijay0414/MiniBlockChain) |
 
 ---
-## ◆ GitHub Statistics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vijay0414&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vijay0414&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
-## ◆ GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vijay0414&theme=tokyonight&hide_border=true"/>
-</p>
-
-## ◆ Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijay0414&theme=tokyo-night"/>
-</p>
-
----
-
-## ◆ Current Focus
+##  Current Focus
 
 -  Java Backend & Spring Boot Development
 -  MERN Stack Applications
@@ -80,14 +84,13 @@
 
 ---
 
-## ◆ Connect With Me
+##  Connect With Me
 
 <p align="center">
-  <a href="https://portfolio-lac-two-t9sygdatyd.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-black?style=for-the-badge"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vijaykumarasamy/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/VijayKumarasamy/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/vijaykumarasamy1"><img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/vijay0414"><img src="https://skillicons.dev/icons?i=github"/></a>
+  <a href="https://portfolio-lac-two-t9sygdatyd.vercel.app/">Portfolio</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vijaykumarasamy/">LinkedIn</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/vijay0414">GitHub</a>
+  <a href="mailto:vijaykumarasamy@example.com">Email</a>
 </p>
 
 <div align="center">
