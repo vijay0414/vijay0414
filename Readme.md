@@ -24,6 +24,10 @@
 - Enjoy solving problems with clean code, automation, and thoughtful design
 
 ---
+
+## TECH STACKS
+
+
 ##  Programming Languages
 
 <p>
@@ -34,7 +38,7 @@
     -CSS</br>
 </p>
 
-##  Tech Stack
+##  Frameworks
 <p>
     -React.js</br>
     -Node.js</br>
