@@ -1,6 +1,6 @@
 <div align="center">
   
-# **VijayKumar**
+# **$\textcolor{red}{\text{VijayKumar}}$**
 
 [MERN Stack Developer - n8n Automation - BlockChain] 
 
