@@ -19,10 +19,6 @@
 -  Kangayam, Tiruppur, Tamil Nadu, India
 - Full Stack Developer & Automation Architect • Java, MERN, n8n & Blockchain
 - Built production-ready interfaces and full-stack platforms
-- Created automation workflows for real-time review scraping and sentiment analysis
-- Designed scalable marketplaces and event management systems
-- Enjoy solving problems with clean code, automation, and thoughtful design
-
 ---
 
 ## TECH STACKS
@@ -31,35 +27,22 @@
 ##  Programming Languages
 
 <p>
-    -Java</br>
-    -Python</br>
-    -Javascript</br>
-    -HTML</br>
-    -CSS</br>
+    >Java >Python >Javascript >HTML >CSS
 </p>
 
 ##  Frameworks
 <p>
-    -React.js</br>
-    -Node.js</br>
-    -Express.js</br>
-    -SpringBoot</br>
+    >React.js >Node.js >Express.js >SpringBoot
 </p>
 
 ##  Database
 <p>
-    -MongoDB</br>
-    -MySQL </br>
+    >MongoDB >MySQL 
 </p>
 
 ##  Tools & Automation
 <p>
-    -Git,GitHub</br>
-    -VScode</br>
-    -Postman</br>
-    -vercel</br>
-    -Render</br>
-    -n8n</br>
+    >Postman >n8n
 </p>
 
 ---
